@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841802030967",
+    "project_id": "cryptic-3bae3",
+    "storage_bucket": "cryptic-3bae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841802030967:android:6311f9aa4f99ac51d3cb72",
+        "android_client_info": {
+          "package_name": "com.example.cryptic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841802030967-bm7s6pl9820ri7t4ts4ndh3udcj4hr8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptic",
+            "certificate_hash": "3620e152b9d48ac27951e5b60bb95ef9f3e8b31f"
+          }
+        },
+        {
+          "client_id": "841802030967-jobmkafja9jr2oalku2me4nki7rhmv62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8H_Bka566PwILtSeqA5N2gFB8La3hNVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841802030967-jobmkafja9jr2oalku2me4nki7rhmv62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
